@@ -5,13 +5,13 @@ ___
 + #### **Termux:**
 + #### **Termux:**
   + `Установить` [**`Termux`**](https://f-droid.org/en/packages/com.termux/)
-  + `pkg upgrade -y`
-  + `pkg update -y`
-  + `pkg install git`
-  + `pkg install python -y`
-  + `git clone https://github.com/AvenCores/Upgrade-pip-modules`
-  + `cd Upgrade-pip-modules`
-  + `python main.py`
+  + **`pkg upgrade -y`**
+  + **`pkg update -y`**
+  + **`pkg install git`**
+  + **`pkg install python -y`**
+  + **`git clone https://github.com/AvenCores/Upgrade-pip-modules`**
+  + **`cd Upgrade-pip-modules`**
+  + **`python main.py`**
 
 + #### **Windows 10/11:**
   + `Требуется 64 битная система`
@@ -20,4 +20,4 @@ ___
   + `Скачать архив и распаковать:` [**`HZF-ORION-Bomber.zip`**](https://github.com/AvenCores/Upgrade-pip-modules/archive/refs/heads/main.zip)
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
-  + `python main.py`**
+  + **`python main.py`**

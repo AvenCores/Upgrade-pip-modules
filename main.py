@@ -15,7 +15,7 @@ clear()
 print("Обновление всех pip библиотек")
 system("pip3 install --upgrade pip")
 if platform == "linux" or platform == "linux2" or platform == "unix":
-	system("pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U ")
+	system("for i in $(pip list -o | awk 'NR > 2 {print $1}'); do pip install -U $i; done")
 elif platform == "win32":
 	packages = [dist.project_name for dist in pkg_resources.working_set]
 	call("pip install --upgrade " + ' '.join(packages), shell=True)

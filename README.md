@@ -1,12 +1,16 @@
 [![Youtube](https://user-images.githubusercontent.com/64781822/185656066-cdb875f1-ade6-4499-ae50-79a4f61fdc3e.png)](https://www.youtube.com/c/HZFYT/) [![Telegram](https://user-images.githubusercontent.com/64781822/185657127-657c530b-3849-4931-ab91-63d6f0508330.png)](https://t.me/hzfnews) [![VK](https://user-images.githubusercontent.com/64781822/185657778-21a240e2-da1f-4b72-b37e-447c9adebfcb.png)](https://vk.com/hzforum1) [![Discord](https://user-images.githubusercontent.com/64781822/185659753-b997c6db-c91a-42c0-8876-6826d46568ba.png)](https://discord.com/invite/7bneGfUS5h)
 
+# 🛡API
+```
+--rootupd — Обновление всех библиотек с ROOT правами
+--nonrootupd — Обновление всех библиотек с правами Пользователя
+--winntupd — Обновление всех библиотек с правами Пользователя для Windows
+```
+
+___
 # 🌐Установка
-+ #### **Termux:**
-  + `Установить` [**`Termux`**](https://f-droid.org/en/packages/com.termux/)
-  + **`pkg upgrade -y`**
-  + **`pkg update -y`**
-  + **`pkg install git`**
-  + **`pkg install python -y`**
++ #### **Unix:**
+  + **`Установите git и python3`** 
   + **`git clone https://github.com/AvenCores/Upgrade-pip-modules`**
   + **`cd Upgrade-pip-modules`**
   + **`python main.py`**
@@ -19,7 +23,12 @@
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
   + **`python main.py`**
-  
+
+ ___
+# 🖥Меню
+
+![1](https://i.imgur.com/t70zCqs.png)
+
 ___
 # 💰Поддержать проект:
 

@@ -27,7 +27,7 @@ ___
  ___
 # 🖥Меню
 
-![1](https://i.imgur.com/t70zCqs.png)
+![1](https://i.imgur.com/JHRwixO.png)
 
 ___
 # 💰Поддержать проект:

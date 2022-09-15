@@ -67,6 +67,13 @@ def nonrootupdate():
 	system("pip3 install --upgrade pip")
 	system("for i in $(pip list -o | awk 'NR > 2 {print $1}'); do pip install -U $i; done")
 	system('cls' if name == 'nt' else 'clear')
+	print("""██╗   ██╗███╗   ██╗██╗██╗  ██╗
+██║   ██║████╗  ██║██║╚██╗██╔╝
+██║   ██║██╔██╗ ██║██║ ╚███╔╝ 
+██║   ██║██║╚██╗██║██║ ██╔██╗ 
+╚██████╔╝██║ ╚████║██║██╔╝ ██╗
+ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                                                                        
+	""")
 	print("Обновление модулей прошло успешно!")
 	exit()
 

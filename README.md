@@ -31,7 +31,7 @@ ___
  ___
 # 🖥Меню
 
-![1](https://i.imgur.com/JHRwixO.png)
+![menu-archlinux](https://i.imgur.com/ngbXXOT.png)
 
 ___
 # 💰Поддержать проект:

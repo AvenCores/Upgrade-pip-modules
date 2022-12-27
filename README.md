@@ -17,12 +17,14 @@ ___
   + **`Установите git и python3`** 
   + **`git clone https://github.com/AvenCores/Upgrade-pip-modules`**
   + **`cd Upgrade-pip-modules`**
+  + **`python Install-for-Linux.py`**
   + **`python main.py`**
+
 
 + #### **Windows 10/11:**
   + `Требуется 64 битная система`
   + `Установить Python, при установке выбрать` **`add python to PATH`**
-  + `Python recommended 3.10.6:` [**`Download`**](https://www.python.org/)
+  + `Python recommended 3.11.1:` [**`Download`**](https://www.python.org/)
   + `Скачать архив и распаковать:` [**`HZF-ORION-Bomber.zip`**](https://github.com/AvenCores/Upgrade-pip-modules/archive/refs/heads/main.zip)
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
